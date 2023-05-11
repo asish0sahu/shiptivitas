@@ -65,7 +65,7 @@ The Dragula library has been installed, you can use it by importing it on top of
 </article>
           </div>
 ### `npm start`
-
+Link to vist:shivtivtask-30b621.netlify.app
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
